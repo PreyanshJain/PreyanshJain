@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Preyansh Jain</string>
+    <string name="dog_s_path">Dog\'s Path</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_with_your_facebook_account">Sign in with your facebook account</string>
+    <string name="by">by</string>
+    <string name="virtoustack_softwares_pvt_ltd">VirtouStack Softwares Pvt. Ltd.</string>
+    <string name="facebook_app_id">309330397622404</string>
+    <string name="fb_login_protocol_scheme">fb309330397622404</string>
+    <string name="trial">Trial</string>
+    <string name="open_path">Open Path</string>
+</resources>
